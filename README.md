@@ -71,13 +71,3 @@ Key factors and segments driving business performance.
 2. Open in Microsoft Power BI Desktop
 3. Refresh data connections
 4. Explore interactive dashboards
-
----
-
-## 🎓 Course
-
-Created as part of the **Maven Analytics Power BI Desktop Course**
-
----
-
-*Built with Power BI | Adventure Works Database*
