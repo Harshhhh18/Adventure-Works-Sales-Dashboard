@@ -2,44 +2,82 @@
 
 A comprehensive Power BI dashboard analyzing sales performance for a global cycling equipment manufacturing company.
 
-## 📊 Dashboard Overview
+**Created with:** Maven Analytics Power BI Desktop Course
 
-**Key Metrics:**
+---
+
+## 📊 Key Metrics
+
 - **Total Revenue:** $24.9M
 - **Total Orders:** 25,200
 - **Total Profit:** $10.5M
 - **Return Rate:** 2.2%
 
-## 📄 Pages Included
+---
 
-1. **Executive Summary** - High-level KPI overview and performance metrics
-2. **Geographic Analysis** - Regional sales distribution and territory performance
-3. **Product Analysis** - Individual product performance vs targets
-4. **Customer Analysis** - Customer segmentation and behavior insights
+## 🖼️ Dashboard Pages
 
-## 🛠️ Tools & Techniques
+### 1. Executive Summary
+![Executive Summary](images/01-executive-summary.png)
 
-- **Data Transformation:** Power Query (ETL)
-- **Data Modeling:** Relational data models
-- **Calculations:** DAX formulas & measures
-- **Visualizations:** Interactive charts, maps, KPI cards, gauge charts
-- **Features:** Drill-through functionality, parameters, filters
+High-level overview of all key business metrics and KPIs.
 
-## 📚 Skills Demonstrated
+---
 
-✓ Power Query data transformation
-✓ DAX calculations & formulas
-✓ Relational data modeling
-✓ Interactive dashboard design
-✓ KPI tracking & analysis
-✓ Advanced Power BI visualizations
+### 2. Geographic Analysis
+![Geographic Analysis](images/02-geographic-analysis.png)
 
-## 📖 How to Use
+Sales distribution across regions and territories.
 
-1. Download the `.pbix` file from this repository
-2. Open it in Microsoft Power BI Desktop
-3. Refresh data connections if needed
-4. Explore the interactive dashboards:
-   - Use filters to drill down by region, product, or time period
-   - Click on charts to drill through to detailed pages
-   - Adjust parameters to see profit scenarios
+---
+
+### 3. Product Analysis
+![Product Analysis](images/03-product-analysis.png)
+
+Individual product performance metrics vs targets.
+
+---
+
+### 4. Customer Analysis
+![Customer Analysis](images/04-customer-analysis.png)
+
+Customer segmentation and demographic analysis.
+
+---
+
+### 5. Key Influencers
+![Key Influencers](images/05-key-influencers.png)
+
+Key factors and segments driving business performance.
+
+---
+
+## 🛠️ Tools & Skills
+
+- **Power Query** - Data extraction and transformation
+- **DAX** - Advanced calculations and formulas
+- **Data Modeling** - Relational database design
+- **Interactive Dashboards** - Filters and drill-throughs
+- **KPI Cards & Gauge Charts** - Performance metrics
+- **Geographic Maps** - Regional analysis
+
+---
+
+## 📥 Download & Use
+
+**File:** `MavenAnalytics_FullProject_HarshGulati.pbix`
+
+1. Download the file
+2. Open in Microsoft Power BI Desktop
+3. Refresh data connections
+4. Explore interactive dashboards
+
+---
+
+## 🎓 Course
+
+Created as part of the **Maven Analytics Power BI Desktop Course**
+
+---
+
+*Built with Power BI | Adventure Works Database*
